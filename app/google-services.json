@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "933716962233",
+    "firebase_url": "https://fireconnect-8bec7-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fireconnect-8bec7",
+    "storage_bucket": "fireconnect-8bec7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933716962233:android:7956d84932d3c27593a468",
+        "android_client_info": {
+          "package_name": "com.example.fireconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933716962233-3a0n9qgtb4dsquasrt5usgsqha3gt7jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA-lJwtEiSmRhqGzVkQXqDCcHF_qAVbtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933716962233-3a0n9qgtb4dsquasrt5usgsqha3gt7jr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
